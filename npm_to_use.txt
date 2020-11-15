@@ -1,0 +1,17 @@
+cd
+
+create-react-app crud-redux
+------------------------------------------------------------------------------------------------------------------------------
+cd
+
+npm install --save redux react-redux
+
+npm install react-select --save
+
+npm install bootstrap --save
+
+npm install react-number-format --save
+------------------------------------------------------------------------------------------------------------------------------
+npm start
+
+
